@@ -1,0 +1,113 @@
+{
+    "/helloworld.zip-extracted/helloworld.2/helloworld.cpp": {
+      "source": {
+        "block_hash": "2f8a2541d5e48649fbb51386a6bbc812d25cd467bc57f47a34d221fcef4144e7",
+        "block_LOC": 4,
+        "block_SLOC": 4,
+        "block_start_line": 5,
+        "block_end_line": 8,
+        "block_string": [
+          "int",
+          "main",
+          "std",
+          "cout",
+          "Hello",
+          "World",
+          "return",
+          "0"
+        ],
+        "block_code": "int main() {\n    std::cout << \"Hello World!\";\n    return 0;\n}\n",
+        "language": "c/c++",
+        "block_name": "main()",
+        "proj_name": "11_CloneEngine",
+        "file_name": "helloworld.cpp"
+      },
+      "matched": {
+        "block_hash": "2f8a2541d5e48649fbb51386a6bbc812d25cd467bc57f47a34d221fcef4144e7",
+        "proj_name": "helloworld.zip",
+        "file_name": "helloworld.cpp",
+        "block_name": "main()",
+        "block_start_line": 5,
+        "block_end_line": 8,
+        "block_LOC": 4,
+        "block_SLOC": 4,
+        "block_string": "int main std cout Hello World return 0",
+        "block_code": "int main() {\n    std::cout << \"Hello World!\";\n    return 0;\n}\n",
+        "language": "c_c++"
+      }
+    },
+    "/helloworld.zip-extracted/helloworld/helloworld.cpp": {
+      "source": {
+        "block_hash": "2f8a2541d5e48649fbb51386a6bbc812d25cd467bc57f47a34d221fcef4144e7",
+        "block_LOC": 4,
+        "block_SLOC": 4,
+        "block_start_line": 5,
+        "block_end_line": 8,
+        "block_string": [
+          "int",
+          "main",
+          "std",
+          "cout",
+          "Hello",
+          "World",
+          "return",
+          "0"
+        ],
+        "block_code": "int main() {\n    std::cout << \"Hello World!\";\n    return 0;\n}\n",
+        "language": "c/c++",
+        "block_name": "main()",
+        "proj_name": "11_CloneEngine",
+        "file_name": "helloworld.cpp"
+      },
+      "matched": {
+        "block_hash": "2f8a2541d5e48649fbb51386a6bbc812d25cd467bc57f47a34d221fcef4144e7",
+        "proj_name": "helloworld.zip",
+        "file_name": "helloworld.cpp",
+        "block_name": "main()",
+        "block_start_line": 5,
+        "block_end_line": 8,
+        "block_LOC": 4,
+        "block_SLOC": 4,
+        "block_string": "int main std cout Hello World return 0",
+        "block_code": "int main() {\n    std::cout << \"Hello World!\";\n    return 0;\n}\n",
+        "language": "c_c++"
+      }
+    },
+    "/helloworld.zip-extracted/helloworld.1/helloworld.cpp": {
+      "source": {
+        "block_hash": "2f8a2541d5e48649fbb51386a6bbc812d25cd467bc57f47a34d221fcef4144e7",
+        "block_LOC": 4,
+        "block_SLOC": 4,
+        "block_start_line": 5,
+        "block_end_line": 8,
+        "block_string": [
+          "int",
+          "main",
+          "std",
+          "cout",
+          "Hello",
+          "World",
+          "return",
+          "0"
+        ],
+        "block_code": "int main() {\n    std::cout << \"Hello World!\";\n    return 0;\n}\n",
+        "language": "c/c++",
+        "block_name": "main()",
+        "proj_name": "11_CloneEngine",
+        "file_name": "helloworld.cpp"
+      },
+      "matched": {
+        "block_hash": "2f8a2541d5e48649fbb51386a6bbc812d25cd467bc57f47a34d221fcef4144e7",
+        "proj_name": "helloworld.zip",
+        "file_name": "helloworld.cpp",
+        "block_name": "main()",
+        "block_start_line": 5,
+        "block_end_line": 8,
+        "block_LOC": 4,
+        "block_SLOC": 4,
+        "block_string": "int main std cout Hello World return 0",
+        "block_code": "int main() {\n    std::cout << \"Hello World!\";\n    return 0;\n}\n",
+        "language": "c_c++"
+      }
+    }
+  }
